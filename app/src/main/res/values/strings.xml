@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NavDemo</string>
+    <string name="text_message">Main Fragment</string>
+</resources>
