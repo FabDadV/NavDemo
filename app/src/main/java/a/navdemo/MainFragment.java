@@ -34,11 +34,13 @@ public class MainFragment extends Fragment {
         super.onActivityCreated(savedInstanceState);
         // TODO: Create OnClickListener
         Button button = getView().findViewById(R.id.button);
-        button.setOnClickListener(new View.OnClickListener() {
+        button.setOnClickListener(Navigation
+                .createNavigateOnClickListener(R.id.mainToSecond,null));
+/*        button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Navigation.findNavController(v).navigate(R.id.mainToSecond);
             }
-        });
+        });*/
     }
 }
