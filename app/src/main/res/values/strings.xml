@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">NavDemo</string>
     <string name="text_message">Main Fragment</string>
+    <string name="text_one">First</string>
+    <string name="text_two">Second</string>
+    <string name="text_three">Third</string>
+    <string name="text_back">Back</string>
+    <string name="text_next">Next</string>
 </resources>
