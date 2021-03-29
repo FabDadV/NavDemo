@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">NavDemo</string>
     <string name="text_message">Main Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_name">Name</string>
+    <string name="text">Hello!</string>
+    <string name="text_button" >Ok</string>
 </resources>
